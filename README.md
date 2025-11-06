@@ -52,6 +52,14 @@
 
 ## 🏗️ Projects
 
+### 👨‍💼 [Employee Management System (EMS)](#)
+
+Comprehensive Enterprise HR Platform  
+
+- Built **full-stack system** with Next.js 15, React 19, TypeScript, Node.js, Express, MongoDB  
+- Implemented **multi-role authentication** (Super Admin/Admin/Employee), attendance tracking with IP geofencing, leave management, task assignment, and performance analytics  
+- Features **real-time updates** via Socket.io, comprehensive reporting with PDF/Excel export, and three separate portals with RBAC  
+
 ### 🚦 [RastaNigheban.ai](#)
 AI-Based Road Safety System  
 - Developed a **mobile app in React Native** integrated with YOLOv8 for real-time pothole detection  
