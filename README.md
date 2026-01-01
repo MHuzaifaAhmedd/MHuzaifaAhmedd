@@ -66,19 +66,16 @@
 ## 📊 GitHub Analytics
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=MHuzaifaAhmedd&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MHuzaifaAhmedd&theme=tokyonight)
 
 ### 📈 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHuzaifaAhmedd&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHuzaifaAhmedd&show_icons=true&theme=tokyonight)
 
 ### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAhmedd&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAhmedd&layout=compact&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=MHuzaifaAhmedd&theme=tokyonight&no-frame=true&row=1&column=6)
-
-**📅 Activity Graph**  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MHuzaifaAhmedd&theme=tokyo-night)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MHuzaifaAhmedd&theme=tokyonight&row=1)
 
 ---
 
