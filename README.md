@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 **BS in Computer Science (FAST NUCES, Karachi)** — Graduated 2025  
+- 🎓 **BS in Computer Science (FAST NUCES, Karachi)**
 - 💼 **MERN Stack Developer @ Family Builders & Developers**  
 - 🔭 Passionate about **scalable systems, AI-powered apps & road safety technology**  
 - 🌱 Exploring **Cloud-Native Development & Advanced Computer Vision**  
